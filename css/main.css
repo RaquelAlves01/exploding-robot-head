@@ -23,6 +23,7 @@ body {
   left: 50%;
   transform: translateX(-50%);
   width: 320px;
+  top: 100px;
 }
 
 .robot-body {
