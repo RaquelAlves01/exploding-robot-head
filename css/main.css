@@ -62,11 +62,11 @@ body {
 }
 
 .robot:hover .robot-head-left {
-  top: -40px;
-  left: 0px;
+  top: -38px;
+  left: -10px;
 }
 
 .robot:hover .robot-head-right {
-  top: -40px;
-  right: 0px;
+  top: -38px;
+  right: -10px;
 }
