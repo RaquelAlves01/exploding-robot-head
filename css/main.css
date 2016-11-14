@@ -32,9 +32,21 @@ body {
 
 .robot-brain {
   width: 46px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .robot-head-right,
 .robot-head-left {
   width: 125px;
 }
+
+.robot-head-left {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+.robot-head-right {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
