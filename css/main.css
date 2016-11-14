@@ -56,3 +56,6 @@ body {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
+  top: -40px;
+  left: 221px;
+}
