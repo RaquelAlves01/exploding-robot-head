@@ -48,6 +48,10 @@ body {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
+  top: -40px;
+  left: 97px;
+}
+
 .robot-head-right {
   position: absolute;
   left: 50%;
