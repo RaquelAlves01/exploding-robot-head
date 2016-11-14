@@ -14,6 +14,7 @@ body {
 }
 
 .banner {
+  position: relative;
   background-color: #2b3851;
 }
 
